@@ -1,5 +1,10 @@
 import { BrowserRouter as Router, Route, Routes, Link } from 'react-router-dom';
 import Etusivu from './components/Etusivu';
+import Madot from './components/Madot';
+import Scolopendra from './components/Scolopendra';
+import Tarantula from './components/Tarantula';
+import Torakat from './components/Torakat';
+import Tiikerikotilo from './components/Tiikerikotilo';
 import './App.css';
 
 function App() {
