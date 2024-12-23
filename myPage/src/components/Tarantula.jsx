@@ -2,8 +2,8 @@ function Tarantula() {
     return (
         <div>
             <div className="image-row">
-            <img src="/src/assets/pics/tarantula1.jpg" alt="tarantula" className="tarantula" />
-            <img src="/src/assets/pics/tarantula2.jpg" alt="tarantula" className="tarantula" />
+            <img src="/src/assets/pics/tarantula1.jpg" alt="tarantula" className="snail" />
+            <img src="/src/assets/pics/tarantula2.jpg" alt="tarantula" className="snail" />
             </div>
             <h1>Tarantula</h1>
             <p>Tarantellat eli lintuhämähäkit. </p>
