@@ -11,7 +11,7 @@ function App() {
   return (
     <Router>
       <nav>
-        <img src='/src/assets/bugs-high-resolution-logo Pieni.jpeg' alt='Logo' className='logo' />
+        <img src='/assets/pics/bugs-high-resolution-logo Pieni.jpeg' alt='Logo' className='logo' />
         <Link to="/">Etusivu</Link>
         <Link to="/Madot">Madot</Link>
         <Link to="/Scolopendra">Scolopendra</Link>
