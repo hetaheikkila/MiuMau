@@ -2,7 +2,7 @@ function Scolopendra() {
     return (
         <div>
             <div className="image-row">
-            <img src="/assets/pics/s1.jpg" alt="snail1" className="snail" />
+            <img src="/pics/s1.jpg" alt="snail1" className="snail" />
             <img src="/assets/pics/s2.jpg" alt="snail2" className="snail" />
             </div>
             <h1>Scolopendra</h1>
