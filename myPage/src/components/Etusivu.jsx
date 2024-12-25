@@ -5,7 +5,7 @@ function Etusivu() {
             <h1>Etusivu</h1>
             <p>Tervetuloa! Mau</p>
             </div>
-            <footer><p>&copy; 2024 My Favourite Bugs. Designed by Heta H</p></footer>
+            <footer><p>&copy; 2024 My Favourite Bugs.</p></footer>
         </div>
     );
 }

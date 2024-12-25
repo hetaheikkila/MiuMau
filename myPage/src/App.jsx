@@ -6,12 +6,14 @@ import Tarantula from './components/Tarantula';
 import Torakat from './components/Torakat';
 import Tiikerikotilo from './components/Tiikerikotilo';
 import './App.css';
+import logo from './assets/pics/logo.jpeg';
+
 
 function App() {
   return (
     <Router>
       <nav>
-        <img src='/assets/pics/bugs-high-resolution-logo Pieni.jpeg' alt='Logo' className='logo' />
+        <img src={logo} alt='Logo' className='logo' />
         <Link to="/">Etusivu</Link>
         <Link to="/Madot">Madot</Link>
         <Link to="/Scolopendra">Scolopendra</Link>
